@@ -1,0 +1,17 @@
+nav{
+    background-color: #362d4e;
+    opacity: 0.9;
+}
+footer{
+    background-color: #362d4e;
+
+}
+.footer{
+    color: white;
+    text-decoration: none;
+    
+}
+.clear:hover{
+    background-color: black;
+    color: white;
+}
